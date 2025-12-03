@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node --version)",
+      "Bash(npm --version)"
+    ],
+    "deny": [],
+    "ask": []
+  },
+  "outputStyle": "Explanatory"
+}
